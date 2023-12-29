@@ -1,1 +1,1 @@
-Hello, world!
+git tutorial by Dave Gray
